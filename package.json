@@ -1,0 +1,30 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doxuantoan11/blogCRUD.git"
+  },
+  "keywords": [
+    "CRUD",
+    "nodejs"
+  ],
+  "author": "Toan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doxuantoan11/blogCRUD/issues"
+  },
+  "homepage": "https://github.com/Doxuantoan11/blogCRUD#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
